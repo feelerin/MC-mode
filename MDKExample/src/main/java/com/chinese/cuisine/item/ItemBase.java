@@ -13,7 +13,7 @@ public class ItemBase extends Item implements ItemModelProvider {
 		this.name = name;
 		setUnlocalizedName(name);
 		setRegistryName(name);
-		//setCreativeTab(Cuisine.creativeTab);
+		setCreativeTab(Cuisine.creativeTab);
 	}
 	
 	@Override

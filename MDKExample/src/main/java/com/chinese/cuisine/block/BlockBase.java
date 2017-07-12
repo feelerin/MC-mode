@@ -16,7 +16,7 @@ public class BlockBase extends Block implements ItemModelProvider {
 		this.name = name;
 		setUnlocalizedName(name);
 		setRegistryName(name);
-		//setCreativeTab(Cuisine.creativeTab);
+		setCreativeTab(Cuisine.creativeTab);
 	}
 	
 	@Override
