@@ -1,0 +1,16 @@
+[
+{
+  "modid": "chinesecuisine",
+  "name": "Chinese Cuisine",
+  "description": "A mod that recall the usage of food in traditional Chinese way.",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Redeemwzh"],
+  "credits": "Minecraft Forge",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
